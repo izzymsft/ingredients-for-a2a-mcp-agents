@@ -40,3 +40,6 @@ Why do we need a proxy such as APIM to manage authentication, routing, load dist
 #### AI Services Needed for MCP and A2A
 Why do we choose certain services such as Azure Document Intelligence, Azure Speech Service, Azure Content Understanding? Why would you choose certain language models over others from the AI Foundry catalog? What AI services do you need to create the right user experience based on your workflow and architecture needs?
 
+## Summary and Reflection
+These 2 protocols (A2A and MCP) are very important for effective multi-agent collaboration and empowerment. These 3 key ingredients enable architects and engineers to design, implement, deploy and maintain scalable, secure intelligent systems in production that leverages the MCP and A2A protocol to bring these solutions to live based on the 9 key principles and pillars that govern such design.
+
