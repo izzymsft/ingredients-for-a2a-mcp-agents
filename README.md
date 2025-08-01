@@ -30,3 +30,13 @@ Here we cover various categories of data stores, infrastructure and services tha
 - Data stores
 - Infrastructure
 - AI Services
+
+#### Data stores Needed for MCP and A2A
+AI agents leveraging MCP and A2A need a variety of data stores such as key-value stores, document stores, vector databases, graph databases, relational databases, queueing systems, messaging systems, object stores and wide-column stores to handle different design needs of the architecture. In this segment, we will cover how A2A and MCP leverages these categories of data stores on Azure with specific examples for different needs and scenarios.
+
+#### Infrastructure Needed for MCP and A2A
+Why do we need a proxy such as APIM to manage authentication, routing, load distribution, throthling and authorization? Why do we pick Azure Functions or Kubernetes and vice-versa? When do we use Search Indexers, Azure Stream Analytics, Azure Databricks or Apache Flink to handle the data pipe and data quality concerns? 
+
+#### AI Services Needed for MCP and A2A
+Why do we choose certain services such as Azure Document Intelligence, Azure Speech Service, Azure Content Understanding? Why would you choose certain language models over others from the AI Foundry catalog? What AI services do you need to create the right user experience based on your workflow and architecture needs?
+
