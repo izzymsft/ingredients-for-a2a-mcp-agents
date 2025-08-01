@@ -1,5 +1,5 @@
 # Building A2A and MCP Powered Agents in Production
-This is an outline for talk on designing and building effective agents powered by MCP and A2A on Azure
+This repository contains an outline for a talk on designing and building effective agents powered by MCP and A2A on Azure leveraging the fundamental pillars of effective agent design and implementation in production.
 
 ## Background
 AI agents are gradually becoming the preferred and desired user experience for interacting with applications today. There are currently two internet standards today that are driving the design and implementations of agentic systems (MCP and A2A). This presentation focuses on the pillars of designing, building, deploying and maintaining secure, scalable, reliable and effective agents in production on Microsoft Azure.
