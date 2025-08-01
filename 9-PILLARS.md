@@ -41,7 +41,27 @@
 
 #### Memory Design and Architecture
 - Agents Must Remember
-- Use key-value stores for short-term memory
-- Document and graph stores for long-term facts
-- Relational DBs for structured context
-- Azure has different services that provides these data stores
+- Memory provides context and makes the Agents effective
+- Using built-in data structures in RAM for ephemeral memory
+- Leveraging key-value stores for short-term memory
+- Leveraging document and vector stores for episoding memory
+- Leveraging graph stores, document stores, wide-column and relational stores for semantic (knowledge) memory and long-term facts
+- Leveraging object stores to remember and recall large binary and text artifacts for resources and results
+- How these datastores are deployed matters and vary based on needs and scenarios (remote, private networks, intra-cluster etc)
+
+#### Reflection & Validation
+- Trust, but Verify
+- Assign validators for final output review
+- Use reflection loops to self-check accuracy
+- Reduce hallucinations and build trust
+
+#### Summary & Final Thoughts
+- Build Systems That Think and Work Together
+- Design with user needs at the core
+- Ensure agents collaborate, remember, reflect
+- Make smart tradeoffs between performance, cost, and quality
+- Pick the right cloud provider that meets your app needs
+
+
+
+
