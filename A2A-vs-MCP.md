@@ -1,3 +1,12 @@
+---
+marp: true
+theme: default
+paginate: true
+backgroundColor: #cac
+backgroundImage: url('https://marp.app/assets/hero-background.svg')
+---
+
+
 # Agent2Agent and Model Context Protocol
 
 ## A2A
