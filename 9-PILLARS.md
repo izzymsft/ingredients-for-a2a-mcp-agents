@@ -1,3 +1,10 @@
+---
+marp: true
+theme: default
+paginate: true
+backgroundColor: #cac
+backgroundImage: url('https://marp.app/assets/hero-background.svg')
+---
 
 ## 9 Pillars that Govern Effective AI Agents in Production
 
