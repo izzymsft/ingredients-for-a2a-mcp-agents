@@ -8,6 +8,17 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ## 9 Pillars that Govern Effective AI Agents in Production
 
+These pillars are fundamental to the design of effective AI agents in production:
+- User-Centric Design
+- Security
+- Data Quality
+- Scalable Data Pipelines
+- Tool-Calling Architecture
+- Multi-Agent Collaboration
+- LLM Selection
+- Memory Design & Management
+- Reflection & Validation
+
 ---
 
 #### User Centric Design
