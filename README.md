@@ -1,3 +1,11 @@
+---
+marp: true
+theme: default
+paginate: true
+backgroundColor: #cac
+backgroundImage: url('https://marp.app/assets/hero-background.svg')
+---
+
 # Building A2A and MCP Powered Agents in Production
 This repository contains an outline for a talk on designing and building effective agents powered by MCP and A2A on Azure leveraging the fundamental pillars of effective agent design and implementation in production.
 
