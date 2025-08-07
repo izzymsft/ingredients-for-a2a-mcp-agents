@@ -3,7 +3,7 @@ marp: true
 theme: default
 paginate: true
 backgroundColor: #cac
-backgroundImage: url('https://marp.app/assets/hero-background.svg')
+backgroundImage: url('images/hero-background.svg')
 ---
 
 
@@ -48,3 +48,11 @@ The [Agent2Agent protocol](https://a2a-protocol.org/latest/) was designed to sta
 * Dynamic capability discovery from other agents
 * Multi-agent collaboration
 * Standard protocol
+
+---
+
+## What you Need
+
+* Datastores
+* Infrastructure
+* AI Services
