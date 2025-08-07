@@ -12,6 +12,9 @@ You only have to focus on writing your story in a Markdown document.
 
 ````bash
 
+# Install the MARP CLI globally
+npm install -g @marp-team/marp-cli
+
 # Start the server to display the slide decks
 marp -s .
 
